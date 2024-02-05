@@ -1,0 +1,14 @@
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\bin\Debug\net8.0\Data_Access.deps.json
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\bin\Debug\net8.0\Data_Access.runtimeconfig.json
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\bin\Debug\net8.0\Data_Access.dll
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\bin\Debug\net8.0\Data_Access.pdb
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.csproj.AssemblyReference.cache
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.AssemblyInfoInputs.cache
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.AssemblyInfo.cs
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.dll
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\refint\Data_Access.dll
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.pdb
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\Data_Access.genruntimeconfig.cache
+C:\Users\p_sou\OneDrive\Desktop\Учебная практика\Data_Access\obj\Debug\net8.0\ref\Data_Access.dll
